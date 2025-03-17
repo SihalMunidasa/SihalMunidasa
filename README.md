@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SihalMunidasa
-- 👀 I’m interested in Machine Learning with a shade of UI/UX (weird combo? maybe.)
+- 👀 I'm enthusiastic about exploring different areas of Computer Science.
 - 🌱 I’m currently an Computer Science undergraduate at Informatics Institute of Technology, Sri Lanka in affiliated with the University of Westminster, London.
 - 📫 You can reach me out on LinkedIn and Instagram, links in profile
 - 😄 Pronouns: He/Him
